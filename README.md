@@ -10,6 +10,6 @@ Verilən məsələlərin algoritm diaqramları hazırlanacaq.
 Githubu əlavə olunacaq.
 Dərslə əlaqədar istifadə edəbiləcəyiniz qaynaqlar
 
-https://www.draw.io/
-Diagram symbols https://goo.gl/kTyhlB
-https://creately.com/diagram-type/objects/flowchart
+- https://www.draw.io/
+- Diagram symbols https://goo.gl/kTyhlB
+- https://creately.com/diagram-type/objects/flowchart
