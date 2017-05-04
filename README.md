@@ -8,7 +8,7 @@
 - Githubu əlavə olunacaq.
 - Dərslə əlaqədar istifadə edəbiləcəyiniz qaynaqlar
 
->
+# Qaynaqlar
 - https://www.draw.io/
 - Diagram symbols https://goo.gl/kTyhlB
 - https://creately.com/diagram-type/objects/flowchart
