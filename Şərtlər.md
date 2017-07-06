@@ -45,3 +45,4 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 
 ## 7.Odd divisors
 ## 8.Number of divisors
+## 9.Palindrome
