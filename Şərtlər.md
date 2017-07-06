@@ -8,16 +8,16 @@
 ## 2.Season
 ``Determine the season name by the month number using the compound conditions.``
 
-Input: The number of the month.
+**Input: The number of the month.**
 
-Output: For spring months print Spring, for summer - Summer, for autumn - Autumn and for winter - Winter.
+**Output: For spring months print Spring, for summer - Summer, for autumn - Autumn and for winter - Winter.**
 
 ## 3.Even and odd numbers
 ``Given three integers a, b, c. Determine is there among them exist at least one even and at least one odd number.``
 
-Input: a, b, c
+**Input: a, b, c**
 
-Output: Print "YES" or "NO".
+**Output: Print "YES" or "NO".**
 
 ## 4.Wardrobe
 ``The dimensions of the wardrobe are a × b × c. Is it possible to carry it through the doorway of the size x × y? The wardrobe can be carried through the doorway, if its corresponding dimensions are not greater than the dimensions of the door.``
@@ -33,3 +33,12 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 **Input: k and w and a1, b1, a2, b2, a3, b3.**
 
 **Output: Print YES if it is possible to choose tents as desired, and NO otherwise.**
+
+## 6.Odd divisors
+
+## 7.Digits
+ 
+``Find the number of digits in a nonnegative integer n.``
+
+**Input: One nonnegative integer n (0 ≤ n ≤ 2*109). [Sample input: 13243]**
+**Output: The number of digits in number n. [Sample output: 5]**
