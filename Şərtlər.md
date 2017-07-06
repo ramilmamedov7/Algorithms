@@ -36,12 +36,12 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 
 # Loop
 
-## 7.Digits
+## 6.Digits
 ``Find the number of digits in a nonnegative integer n.``
 
 **Input: One nonnegative integer n (0 ≤ n ≤ 2*109). [Sample input: 13243]**
 
 **Output: The number of digits in number n. [Sample output: 5]**
 
-## 6.Odd divisors
+## 7.Odd divisors
 ## 8.Number of divisors
