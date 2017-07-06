@@ -48,3 +48,4 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 ## 9.Palindrome
 ## 10.Sum of Squares of Numbers
 ## 11.Two Numbers Sum Equal to Third Number
+## 12.Prime(Checker)
