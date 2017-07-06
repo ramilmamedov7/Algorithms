@@ -4,7 +4,6 @@
 - Verilən məsələlərin algoritm diaqramları hazırlanacaq.
 - Şəkil formatında save olunacaq
 - Githubu əlavə olunacaq.
-- Dərslə əlaqədar istifadə edəbiləcəyiniz qaynaqlar
 
 ## Qaynaqlar
 - https://www.draw.io/
