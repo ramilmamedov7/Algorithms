@@ -53,7 +53,7 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 ## 3.Number of divisors
 ``Find the number of divisor for number n.``
 
-**Input: One positive integer n **
+**Input: One positive integer n.**
 
 **Output: Print the number of divisor for number n.**
 
@@ -61,7 +61,7 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 ``n pirates fairly divided the treasure of m gold coins - everyone got his part according to their rank and seniority pirate. Youngest pirate took a coin and each pirate taking on the next one coin more than the previous colleague. The last was the captain, who got twice as much of the plan, it is obvious that after the coins are no more.
 How many pirates along with the captain, if we know a and m. ``
 
-**Input: Two positive integers a and m **
+**Input: Two positive integers a and m.**
 
 **Output: The number of pirates n.**
 
@@ -71,7 +71,6 @@ How many pirates along with the captain, if we know a and m. ``
 **Input: One number n (0 < n < 218).**
 
 **Output: The amount of performed operations.**
-
 
 # -----------------
 
