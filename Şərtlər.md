@@ -68,7 +68,7 @@ How many pirates along with the captain, if we know a and m. ``
 ## 5.How many times to repeat?
 ``The positive integer n is given. We subtract from this number the sum of its digits. From the received number we soon subtract the sum of its digits and so on. This operation continues until the number is positive. How many times this operation will be repeated?``
 
-**Input: One number n (0 < n < 2 *109).**
+**Input: One number n (0 < n < 218).**
 
 **Output: The amount of performed operations.**
 
@@ -78,7 +78,7 @@ How many pirates along with the captain, if we know a and m. ``
 ## 6.Digits
 ``Find the number of digits in a nonnegative integer n.``
 
-**Input: One nonnegative integer n (0 ≤ n ≤ 2*109). [Sample input: 13243]**
+**Input: One nonnegative integer n (0 ≤ n ≤ 218). [Sample input: 13243]**
 
 **Output: The number of digits in number n. [Sample output: 5]**
 
