@@ -35,6 +35,7 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 
 **Output: Print YES if it is possible to choose tents as desired, and NO otherwise.**
 
+## --------------------------------------------------
 # Loop
 ## 1.Odd divisors
 ``Print all odd divisors for positive integer n.``
@@ -53,7 +54,7 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 ## 3.Number of divisors
 ``Find the number of divisor for number n.``
 
-**Input: One positive integer n.**
+**Input: One positive integer n **
 
 **Output: Print the number of divisor for number n.**
 
@@ -61,29 +62,55 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 ``n pirates fairly divided the treasure of m gold coins - everyone got his part according to their rank and seniority pirate. Youngest pirate took a coin and each pirate taking on the next one coin more than the previous colleague. The last was the captain, who got twice as much of the plan, it is obvious that after the coins are no more.
 How many pirates along with the captain, if we know a and m. ``
 
-**Input: Two positive integers a and m.**
+**Input: Two positive integers a and m **
 
 **Output: The number of pirates n.**
 
-## 5.How many times to repeat?
+## 5.How many times to repeat?  
 ``The positive integer n is given. We subtract from this number the sum of its digits. From the received number we soon subtract the sum of its digits and so on. This operation continues until the number is positive. How many times this operation will be repeated?``
 
-**Input: One number n (0 < n < 218).**
+**Input: One number n (0 < n < 2 *109).**
 
 **Output: The amount of performed operations.**
 
-# -----------------
 
-## 6.Digits
+## --------------------------------------------------
+## 1.Digits
 ``Find the number of digits in a nonnegative integer n.``
 
-**Input: One nonnegative integer n (0 ≤ n ≤ 218). [Sample input: 13243]**
+**Input: One nonnegative integer n (0 ≤ n ≤ 2*109). [Sample input: 13243]**
 
 **Output: The number of digits in number n. [Sample output: 5]**
 
-## 7.Odd divisors -1 
-## 8.Number of divisors -3
-## 9.Palindrome 
-## 10.Sum of Squares of Numbers
-## 11.Two Numbers Sum Equal to Third Number
-## 12.Prime(Checker)
+## 2.Cash machine
+``The cash machine contains the sufficient number of banknotes with denominations 5,10, 20, 50 and 100 hryvnias. Find the minimum number of bills to give an amount of n hryvnias or print -1 if its impossible. ``
+
+**Input: One number n.**
+
+**Output: Print the minimum number of banknotes to give n hryvnias or -1 if its impossible.**
+
+## 3.Rabbits in the cells
+
+``Everyone knows the so-called Dirichlet principle, which reads as follows:
+
+Suppose that a certain number of rabbits are planted in the cells. If the number of rabbits more than the number of cells, at least in one cell will be more than one rabbit.
+
+In this problem, we consider the more general case of the classical mathematical fact. Suppose there are n cells and m rabbits, which are seated in these cells. Calculate the maximum number of rabbits that is guaranteed to be in the same cell.``
+
+**Input: One line contains two positive integers n and m.**
+
+**Output: Print the maximum number of rabbits that is guaranteed to be in the same cell.**
+
+## 6.Interval (n-m)
+
+``Tapşırıq Sizə ekrandan m və n verilir. m-n intervalında olan rəqəmlərin cəmi tapan algoritma yazmalısınız.``
+
+**Input: m=10, n=15.**
+
+**Output: 75.**
+
+## 3.Palindrome 
+## 4.Sum of Squares of Numbers
+## 4.Two Numbers Sum Equal to Third Number
+## 5.Prime (Checker)
+## 7.
