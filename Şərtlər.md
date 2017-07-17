@@ -35,7 +35,7 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 
 **Output: Print YES if it is possible to choose tents as desired, and NO otherwise.**
 
-## --------------------------------------------------
+## ----------------------------------------------------------------------------------------
 # Loop
 ## 1.Odd divisors
 ``Print all odd divisors for positive integer n.``
@@ -69,7 +69,7 @@ How many pirates along with the captain, if we know a and m. ``
 ## 5.How many times to repeat?  
 ``The positive integer n is given. We subtract from this number the sum of its digits. From the received number we soon subtract the sum of its digits and so on. This operation continues until the number is positive. How many times this operation will be repeated?``
 
-**Input: One number n (0 < n < 2 *109).**
+**Input: One number n (0 < n < 218).**
 
 **Output: The amount of performed operations.**
 
