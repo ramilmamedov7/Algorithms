@@ -73,8 +73,7 @@ How many pirates along with the captain, if we know a and m. ``
 
 **Output: The amount of performed operations.**
 
-
-## --------------------------------------------------
+## ----------------------------------------------------------------------------------------
 ## 1.Digits
 ``Find the number of digits in a nonnegative integer n.``
 
