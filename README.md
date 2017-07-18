@@ -51,7 +51,7 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 
 **Output: Print YES if it is possible to choose tents as desired, and NO otherwise.**
 
-## ----------------------------------------------------------------------------------------------------
+## ---------------------------------------------------------------------------------------
 # Loop
 ## 1.Odd divisors
 ``Print all odd divisors for positive integer n.``
@@ -89,7 +89,7 @@ How many pirates along with the captain, if we know a and m. ``
 
 **Output: The amount of performed operations.**
 
-## ----------------------------------------------------------------------------------------------------
+## ---------------------------------------------------------------------------------------
 ## Digits
 ``Find the number of digits in a nonnegative integer n.``
 
