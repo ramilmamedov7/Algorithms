@@ -51,7 +51,7 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 
 **Output: Print YES if it is possible to choose tents as desired, and NO otherwise.**
 
-## --------------------------------------------------
+## ----------------------------------------------------------------------------------------------------
 # Loop
 ## 1.Odd divisors
 ``Print all odd divisors for positive integer n.``
@@ -89,8 +89,7 @@ How many pirates along with the captain, if we know a and m. ``
 
 **Output: The amount of performed operations.**
 
-
-## --------------------------------------------------
+## ----------------------------------------------------------------------------------------------------
 ## Digits
 ``Find the number of digits in a nonnegative integer n.``
 
@@ -107,11 +106,7 @@ How many pirates along with the captain, if we know a and m. ``
 
 ## Rabbits in the cells
 
-``Everyone knows the so-called Dirichlet principle, which reads as follows:
-
-Suppose that a certain number of rabbits are planted in the cells. If the number of rabbits more than the number of cells, at least in one cell will be more than one rabbit.
-
-In this problem, we consider the more general case of the classical mathematical fact. Suppose there are n cells and m rabbits, which are seated in these cells. Calculate the maximum number of rabbits that is guaranteed to be in the same cell.``
+``Everyone knows the so-called Dirichlet principle, which reads as follows: Suppose that a certain number of rabbits are planted in the cells. If the number of rabbits more than the number of cells, at least in one cell will be more than one rabbit. In this problem, we consider the more general case of the classical mathematical fact. Suppose there are n cells and m rabbits, which are seated in these cells. Calculate the maximum number of rabbits that is guaranteed to be in the same cell.``
 
 **Input: One line contains two positive integers n and m.**
 
